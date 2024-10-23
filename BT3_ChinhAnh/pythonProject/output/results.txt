@@ -1,0 +1,4 @@
+Model, Accuracy, Precision, Recall, Time
+SVM, 0.00, 1.00, 0.00, 0.01
+KNN, 0.00, 1.00, 0.00, 0.01
+Decision Tree, 0.00, 1.00, 0.00, 0.02
